@@ -6,6 +6,8 @@
 ![cc](cc.png)
 ##  Overview
 
+Built in a team with [Dutch Clarke](https://www.linkedin.com/in/dutch-clarke-845267392/) [Caleb Gurbaxani](https://www.linkedin.com/in/caleb-gurbaxani-90466830b/) [Mohammed Alam](https://www.linkedin.com/in/mohammed-alam-4182353a1/) [Karthik Vishwanatham](https://www.linkedin.com/in/karthik-vish/) [Rashad Bijli](https://www.instagram.com/allu_scent/)
+
 **communityCompute** is an open, distributed browser-based compute network built to tackle massive computational challenges in mathematics, medicine, and environmental science. 
 
 Instead of requiring users to download heavy desktop software or configure complex cluster environments, **communityCompute** allows anyone with a web browser to contribute their idle processing power directly to active scientific missions. By simply opening a browser tab, users join a worldwide grid of micro-nodes working together on high-impact research.

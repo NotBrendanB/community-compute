@@ -1,4 +1,4 @@
-# communityCompute 
+# [communityCompute](https://community-compute.org/)
 
 > **HackGT Submission** | *Democratizing high-performance computing for social good through the browser.*
 

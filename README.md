@@ -3,7 +3,7 @@
 > **HackGT Submission** | *Democratizing high-performance computing for social good through the browser.*
 
 ---
-
+![cc](cc.png)
 ##  Overview
 
 **communityCompute** is an open, distributed browser-based compute network built to tackle massive computational challenges in mathematics, medicine, and environmental science. 
